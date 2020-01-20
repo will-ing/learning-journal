@@ -15,6 +15,7 @@ Links|  \[the name]\(URL)
 Ordered Lists| 1. ordered 
 Unordered lists| \* unordered
 emojis| :emotion:
+tables| uses \| and - to seperate and make the table.
 
 These are just some examples. If you want to learn more visit [Markdown](https://guides.github.com/features/mastering-markdown/)
 
