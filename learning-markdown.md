@@ -11,7 +11,7 @@ Italic| Use a single * on either side Ex: *\*name*\*
 Headers|"#" is for h1 and you can go up to 6
 Blockquotes| Use > to make blockquotes
 Strikethough| use ~~ ~~ symbol on either side. 
-Links| http://github.com\ - automatic! \[GitHub]\(http://github.com)
+Links|  \[the name]\(URL)
 Ordered Lists| 1. ordered 
 Unordered lists| \* unordered
 emojis| :emotion:
