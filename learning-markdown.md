@@ -8,4 +8,6 @@ Type | Description
 ------------ | -------------
 Bold | Use the * on either side of the word
 Italic| Use a double * on either side
-### Headers|"# is for <h1>
+Headers|"# is for <h1> and you can go up to 6
+Images| Use > to make blockquotes
+Links| http://github.com - automatic![GitHub](http://github.com)
