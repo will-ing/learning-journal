@@ -15,4 +15,4 @@ Links| http://github.com\ - automatic! \[GitHub]\(http://github.com)
 Ordered Lists| 1. ordered 
 Unordered lists| \* unordered
 
-These are just some examples. If you want to learn more visit [Markdown]((https://guides.github.com/features/mastering-markdown/)
+These are just some examples. If you want to learn more visit [Markdown](https://guides.github.com/features/mastering-markdown/)
