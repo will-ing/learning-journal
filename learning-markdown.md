@@ -8,4 +8,4 @@ Type | Description
 ------------ | -------------
 Bold | Use the * on either side of the word
 Italic| Use a double * on either side
-### Headers | "# is for <h1>
+### Headers|"# is for <h1>
