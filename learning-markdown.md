@@ -6,5 +6,5 @@
 
 ### Headers | "# is for <h1>
 ----------- | ---------------
-  Bold      |   Use the * on either side of the word
-  Italic    |   Use a double * on either side
+  Bold|Use the * on either side of the word
+  Italic | Use a double * on either side
