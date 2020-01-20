@@ -14,7 +14,7 @@ Hi my name is Will. I am an army veteran that is looking to develop skills to ef
 ## Remind yourself
 1. Without resistance you can't grow
 1. When it doubt reach out
-1. There are no failures on lessons
+1. There are no failures on lesson
 
 profile
 https://github.com/will-ing
