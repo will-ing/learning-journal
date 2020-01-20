@@ -10,7 +10,7 @@ Bold | Use the * double on either side of the word ex: *\*\*name*\*\*
 Italic| Use a single * on either side Ex: *\*name*\*
 Headers|"#" is for h1 and you can go up to 6
 Blockquotes| Use > to make blockquotes
-Strikethough| use ~~ symbol on either side. 
+Strikethough| use ~~ ~~ symbol on either side. 
 Links| http://github.com\ - automatic! \[GitHub]\(http://github.com)
 Ordered Lists| 1. ordered 
 Unordered lists| \* unordered
