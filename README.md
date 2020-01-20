@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hi my name is Will. I am an army veteran that is looking to develop skills to effectively change careers in to a software development field. I currently work in the retail outdoor industry for a company called "*evo*". I have lived in Washington for 8 years. The mountains and the greenery is what I like most. 
+Hi my name is Will. I am an army veteran that is looking to develop skills to effectively change careers in to a software development field. I currently work in the retail outdoor industry for a company called "*evo*". I have lived in Washington for 8 years. The mountains and the greenery is what I like most about it here. Below is what I think when thinking about grownth mindset.
 
 ## Growth Mindset
 
