@@ -7,7 +7,8 @@
 Type | Description
 ------------ | -------------
 Bold | Use the * on either side of the word ex: *\*name*\* 
-Italic| Use a double ** on either side ex: \***name**\*
+Italic| Use a double ** on either side Ex: \**name\**
 Headers|"#" is for h1 and you can go up to 6
-Images| Use > to make blockquotes
+Blockquotes| Use > to make blockquotes
 Strikethough| use ~~ symbol on either side. 
+Links| \http://github.com\ - automatic! \[GitHub](http://github.com)
