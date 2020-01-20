@@ -2,7 +2,7 @@
 
 ## Intro
 
-Hi my name is Will. I am an army veteran that is looking to develop skills to effectively change career in to a software development field. I currently work in the retail outdoor industry for a company called "*evo*". 
+Hi my name is Will. I am an army veteran that is looking to develop skills to effectively change careers in to a software development field. I currently work in the retail outdoor industry for a company called "*evo*". 
 
 ## Growth Mindset
 
@@ -16,5 +16,4 @@ Hi my name is Will. I am an army veteran that is looking to develop skills to ef
 1. When it doubt reach out
 1. There are no failures only lesson
 
-profile
-https://github.com/will-ing
+[My profile](https://github.com/will-ing)
