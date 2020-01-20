@@ -18,4 +18,3 @@ emojis| :emotion:
 
 These are just some examples. If you want to learn more visit [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-:grinning:
