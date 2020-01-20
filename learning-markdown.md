@@ -15,7 +15,7 @@ Links|  \[the name]\(URL)
 Ordered Lists| 1. ordered 
 Unordered lists| \* unordered
 emojis| :emotion:
-Images| \![Image namet]\(image URL)
+Images| \!\[image name] (image URL)
 tables| uses \| and - to seperate and form the table. You only have to use the hyphens for the top columns
 
 These are just some examples. If you want to learn more visit [Markdown](https://guides.github.com/features/mastering-markdown/)
