@@ -8,7 +8,7 @@ Type | Description
 ------------ | -------------
 Bold | Use the * double on either side of the word ex: *\*\*name*\*\*
 Italic| Use a single * on either side Ex: *\*name*\*
-Headers|"#" is for h1 and you can go up to 6
+Headers|"#" is for h1 and you can go up to h6 by typing it 6 time consecutively
 Blockquotes| Use > to make blockquotes
 Strikethough| use ~~ ~~ symbol on either side. 
 Links|  \[the name]\(URL)
