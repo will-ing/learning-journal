@@ -12,5 +12,7 @@ Headers|"#" is for h1 and you can go up to 6
 Blockquotes| Use > to make blockquotes
 Strikethough| use ~~ symbol on either side. 
 Links| http://github.com\ - automatic! \[GitHub]\(http://github.com)
-Ordered Lists| \1. ordered
+Ordered Lists| 1. ordered 
 Unordered lists| \* unordered
+
+These are just some examples. If you want to learn more visit https://guides.github.com/features/mastering-markdown/
