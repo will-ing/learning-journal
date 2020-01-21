@@ -10,7 +10,7 @@
 * It records states of your files. With git e can view apply and remove the changes.
 * Keeps all of your projuct files in one repository.
 
-Without version control you have to rename the file and save it.
+~*Without version control you have to rename the file and save it. This takes up more space.*~
 
 > **Commits** - are a the changes made to each file. Equivalent of "save as". Each commit has a "HEAD". A head is equal to the meaning that you are hear. You can also give commits messages. The messages are like writing captions to your snapshot.
 
@@ -29,7 +29,7 @@ Staged| File has been changed but not committed to the database
 
 ### Repositiories
 
-**Repositories** - A place of storage for your files that you told Git to pay attention to.
+> **Repositories** - A place of storage for your files that you told Git to pay attention to.
 * Usually one project = one repository
 * Really large projects mitht have multiple repos for different parts of their system
 * Can live on Github or your computer.
@@ -40,7 +40,9 @@ Steps for creating projects
 3. mkdir crates a folder
 4. touch creates files in folders
 
-### Gitflow and ACP 
+~*git will automatically give the name origin to the server you are cloning. It will name your local branch master*~
+
+## Gitflow and ACP 
 
 *acp = add, commit, push
 
@@ -51,14 +53,30 @@ Input in terminal| What it does
 2. git commit -m "messatge"| save the changes and commit
 3. git push origin master| send it to the master online. Your computer and Github are synced. sends snapshot to the cloud.
  git fetch| updates and lets you know if the repo has any changes
+git fetch origin| to pull down any new changes that were pushed to the server since you cloned 
 git pull origin master| to pull the changes from github to your computer. 
 git diff origin master | Tell you the changes from the cloud to the computer. 
+git remote rename old-name new-name| This changes the old name to the new one.
+git remote rm filename| this will remove the file.
+git commit --amend| when you make a mistake on a file or forgot to add some files. ~*if no changes were made since the newest commit*~
+git reset HEAD filename| Unstage changes made to a file ~*"When git reset --hard" is used, Git overwrites all changes in the working directory, permanently destroying any uncommitted changes*~
+git revert| To undo changes resulting from a particular commit
+git checkout -- filename| To have a file return to its state when you last committed
+
+
+
+> **Fetching** - Pulling datat that you don't have from a remote project.
+
+> **Pushing** - to move your changes “upstream” for sharing. 
+
+>
+
 
 #### Life cycle of files
 
 ![Life cycle](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
 
-Start| Input| New status
+Beginging Status| Change| New status
 ----- | -------- | -------
 Untracked| Add the file| Unmodified
 Unmodified| edit file| Modified 
@@ -70,7 +88,7 @@ Unmodified| Remove files| Untracked
 
 
 
-## table of contents
+## Table of contents
 [Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
 
 [Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
