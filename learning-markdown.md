@@ -20,3 +20,4 @@ tables| uses \| and - to seperate and form the table. You only have to use the h
 
 These are just some examples. If you want to learn more visit [Markdown](https://guides.github.com/features/mastering-markdown/)
 
+[Main page](https://will-ing.github.io/learning-journal/)
