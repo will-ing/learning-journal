@@ -18,7 +18,34 @@ Without version control you have to rename the file and save it.
 * Keep a history of each file over tme.
 * Work on code on your computer and sync it online
 
+Statuses|Desc
+---- | -----
+Commmited| Data is securely stored in a local database
+Modified| File has been changed but not committed to the database
+Staged| File has been changed but not committed to the database
+
 **Repositories** - A place of storage for your files that you told Git to pay attention to.
 * Usually one project = one repository
 * Really large projects mitht have multiple repos for different parts of their system
 * Can live on Github or your computer.
+
+Steps for projects
+1. Using git clone
+2. type git clone URL in terminal
+3. mkdir crates a folder
+4. touch creates files in folders
+
+**gitflow:acp** - add, commit, push.
+1. git status - will tell you what is commited and what is not
+2. git add "file"- will commit to and change green. It will start tracking
+3. git commit -m "messatge" - save the changes and commit
+4. git push origin master - send it to the master online. Your computer and Github are synced. sends snapshot to the cloud.
+5. git fetch - updates and lets you know if the repo has any changes
+6. git pull origin master- to pull the changes from github to your computer. 
+7. git diff origin master - Tell you the changes from the cloud to the computer. 
+
+
+
+
+
+
