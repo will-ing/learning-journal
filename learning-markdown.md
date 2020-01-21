@@ -16,7 +16,7 @@ Ordered Lists| 1. ordered
 Unordered lists| \* unordered
 emojis| :emotion:
 Images| \!\[image name] (image URL)
-inline| uses back tick ` `
+inline| uses back tick ` ` ref [Gitub md](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 tables| uses \| and - to seperate and form the table. You only have to use the hyphens for the top columns
 
 These are just some examples. If you want to learn more visit [Markdown](https://guides.github.com/features/mastering-markdown/)
