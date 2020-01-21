@@ -27,6 +27,8 @@ tab completion| hit tab after inserting the letter. This can also escape any spa
 
 ## [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
+Here are some things you should know about files
+
 Type| Descrption
 ------ | -------
 File| Everything is a file.
