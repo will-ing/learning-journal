@@ -21,4 +21,10 @@ tables| uses \| and - to seperate and form the table. You only have to use the h
 
 These are just some examples. If you want to learn more visit [Markdown](https://guides.github.com/features/mastering-markdown/)
 
+## Table of contents
+
+[Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
+
+[git notes](https://will-ing.github.io/learning-journal/git-notes)
+
 [Main page](https://will-ing.github.io/learning-journal/)

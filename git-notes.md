@@ -1,4 +1,6 @@
-# Revision and the cloud
+# Git notes
+
+[Git tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 **What is Git?** - Git is used for collaboration and store files in snapshots. Keeps snapshots of your coe at points in time.
 
@@ -45,7 +47,12 @@ Steps for projects
 git pull origin master| to pull the changes from github to your computer. 
 git diff origin master | Tell you the changes from the cloud to the computer. 
 
+## table of contents
+[Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
 
+[Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
+
+[Main page](https://will-ing.github.io/learning-journal/)
 
 
 

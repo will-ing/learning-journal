@@ -18,7 +18,7 @@ Hi my name is Will. I am an army veteran that is looking to develop skills to ef
 
 [My profile](https://github.com/will-ing)
 
-#### Notes
+#### Table of contents
 [Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
 
 [Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
