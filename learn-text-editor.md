@@ -1,4 +1,4 @@
-#Learning text editor
+# Learning text editor
 
 ## [Terminal;Command line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 
@@ -15,7 +15,7 @@ input|description
 pwd| Print working directory; What directory you are in
 ls| this is to see a list of what is in the directory
 paths| **absolute** - specify a location (file or directory) in relation to the root directory. You can identify them easily as they always begin with a forward slash ( / ); **relative** - specify a location (file or directory) in relation to where we currently are in the system. They will not begin with a slash.
-tilde| This is a shortcut for your home directory
+tilde ~| This is a shortcut for your home directory
 .dot| This is a reference to your current directory
 .. dot dot| This is a reference to the parent directory.
 cd| change directory
