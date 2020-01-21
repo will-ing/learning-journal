@@ -20,4 +20,5 @@ Hi my name is Will. I am an army veteran that is looking to develop skills to ef
 
 #### Notes
 [Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
+
 [Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
