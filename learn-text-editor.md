@@ -12,6 +12,8 @@ Shortcuts| you can hit up on the arrow key to see what you previously entered
 
 ## [Naigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 
+Below are some tips when navigating through the terminal.
+
 Input|Description
 ------ | -------
 pwd| Print working directory; What directory you are in
