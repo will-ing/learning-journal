@@ -33,6 +33,7 @@ Occupation|
 Income|
 Web Use|
 
+
 ## Why people visit your site?
 
 > There are 2 types of categories: Motivation and Goals
@@ -87,3 +88,12 @@ Visual Hierarchy| Size, Color, Style, using contrast, The order the eyes perciev
 Grouping| Proxmity, closure, Continuance
 Similarity| Consistency, headings
 
+
+#### Table of contents
+[Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
+
+[Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
+
+[Git Notes](https://will-ing.github.io/learning-journal/git-notes)
+
+[Main page](https://will-ing.github.io/learning-journal/)
