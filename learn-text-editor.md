@@ -45,9 +45,9 @@ ls -a| type this in the terminal to see hidden files. They will start with "."
 ## Table of contents
 [Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
 
-[git notes](https://will-ing.github.io/learning-journal/git-notes)
+[Git Notes](https://will-ing.github.io/learning-journal/git-notes)
 
-[Main page](https://will-ing.github.io/learning-journal/)
+[Main Page](https://will-ing.github.io/learning-journal/)
 
 
 

@@ -26,16 +26,20 @@ Commmited| Data is securely stored in a local database
 Modified| File has been changed but not committed to the database
 Staged| File has been changed but not committed to the database
 
+### Repositiories
+
 **Repositories** - A place of storage for your files that you told Git to pay attention to.
 * Usually one project = one repository
 * Really large projects mitht have multiple repos for different parts of their system
 * Can live on Github or your computer.
 
-Steps for projects
+Steps for creating projects
 1. Using git clone
 2. type git clone URL in terminal
 3. mkdir crates a folder
 4. touch creates files in folders
+
+### Gitflow and ACP
 
 **gitflow:acp** - add, commit, push.|descripion
 ------- | -------
@@ -46,6 +50,22 @@ Steps for projects
  git fetch| updates and lets you know if the repo has any changes
 git pull origin master| to pull the changes from github to your computer. 
 git diff origin master | Tell you the changes from the cloud to the computer. 
+
+#### Life cycle of files
+
+![Life cycle](https://blog.udemy.com/wp-content/uploads/2015/08/image006.png)
+
+Status| Decription
+----- | --------
+Untracked| Add the file| Unmodified
+Unmodified| edit file| Modified 
+Modifed| Stage file| Staged (git add "filename")
+Staged| Commit file| Unmodified (git commit -m "Leave a mesaage")
+Unmodified| Remove files| Untracked
+
+*check file statues with git status as you go throught*
+
+
 
 ## table of contents
 [Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)

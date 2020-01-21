@@ -23,4 +23,6 @@ Hi my name is Will. I am an army veteran that is looking to develop skills to ef
 
 [Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
 
-[git notes](https://will-ing.github.io/learning-journal/git-notes)
+[Git Notes](https://will-ing.github.io/learning-journal/git-notes)
+
+[Main page](https://will-ing.github.io/learning-journal/)

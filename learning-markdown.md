@@ -25,6 +25,6 @@ These are just some examples. If you want to learn more visit [Markdown](https:/
 
 [Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
 
-[git notes](https://will-ing.github.io/learning-journal/git-notes)
+[Git Notes](https://will-ing.github.io/learning-journal/git-notes)
 
 [Main page](https://will-ing.github.io/learning-journal/)
