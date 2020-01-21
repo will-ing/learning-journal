@@ -2,6 +2,7 @@
 
 
 ## [Terminal;Command line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
 Word|Description
 ----- | ----------
 Terminal| A text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
@@ -10,6 +11,7 @@ Shell| is a part of the operating system that defines how the terminal will beha
 Shortcuts| you can hit up on the arrow key to see what you previously entered
 
 ## [Naigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
 Input|Description
 ----- | -------
 pwd| Print working directory; What directory you are in
@@ -22,6 +24,7 @@ cd| change directory
 tab completion| hit tab after inserting the letter. This can also escape any spaces for you when entering files in to the terminal.
 
 ## [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
 Type| Descrption
 ----- | -------
 File| Everything is a file.
