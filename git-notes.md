@@ -65,11 +65,11 @@ git checkout -- filename| To have a file return to its state when you last commi
 
 
 
-> **Fetching** - Pulling datat that you don't have from a remote project.
+> **Fetching** - Pulling data that you don't have from a remote project.
 
 > **Pushing** - to move your changes “upstream” for sharing. 
 
->
+> **Pulling** - to move your changes from the server to your station
 
 
 #### Life cycle of files
