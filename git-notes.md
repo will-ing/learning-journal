@@ -35,14 +35,15 @@ Steps for projects
 3. mkdir crates a folder
 4. touch creates files in folders
 
-**gitflow:acp** - add, commit, push.
-1. git status - will tell you what is commited and what is not
-2. git add "file"- will commit to and change green. It will start tracking
-3. git commit -m "messatge" - save the changes and commit
-4. git push origin master - send it to the master online. Your computer and Github are synced. sends snapshot to the cloud.
-5. git fetch - updates and lets you know if the repo has any changes
-6. git pull origin master- to pull the changes from github to your computer. 
-7. git diff origin master - Tell you the changes from the cloud to the computer. 
+**gitflow:acp** - add, commit, push.|descripion
+------- | -------
+ git status| will tell you what is commited and what is not
+1. git add "file"| will commit to and change green. It will start tracking
+2. git commit -m "messatge"| save the changes and commit
+3. git push origin master| send it to the master online. Your computer and Github are synced. sends snapshot to the cloud.
+ git fetch| updates and lets you know if the repo has any changes
+git pull origin master| to pull the changes from github to your computer. 
+git diff origin master | Tell you the changes from the cloud to the computer. 
 
 
 
