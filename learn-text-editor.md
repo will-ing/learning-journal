@@ -20,3 +20,11 @@ tilde| This is a shortcut for your home directory
 .. dot dot| This is a reference to the parent directory.
 cd| change directory
 tab completion| hit tab after inserting the letter
+
+## Files
+
+type| descrption
+----- | -------
+File| Everything is a file.
+file extensions| normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes what type of file it is
+file \[path\]
