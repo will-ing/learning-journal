@@ -2,7 +2,7 @@
 
 
 ## [Terminal;Command line](https://ryanstutorials.net/linuxtutorial/commandline.php)
-word|Description
+Word|Description
 ----- | ----------
 Terminal| A text based interface to the system. You are able to enter commands by typing them on the keyboard and feedback will be given to you similarly as text.
 Opening terminal| Type cmd in to search
@@ -10,7 +10,7 @@ Shell| is a part of the operating system that defines how the terminal will beha
 Shortcuts| you can hit up on the arrow key to see what you previously entered
 
 ## [Naigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
-input|description
+Input|Description
 ----- | -------
 pwd| Print working directory; What directory you are in
 ls| this is to see a list of what is in the directory
@@ -22,7 +22,7 @@ cd| change directory
 tab completion| hit tab after inserting the letter. This can also escape any spaces for you when entering files in to the terminal.
 
 ## [Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
-type| descrption
+Type| Descrption
 ----- | -------
 File| Everything is a file.
 file extensions| normally a set of 2 - 4 characters after a full stop at the end of a file, which denotes what type of file it is
