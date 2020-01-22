@@ -83,9 +83,9 @@ Types| Examples
 --- | ---
 Content| Logos, links, Login, comments, copyright, terms and conditions
 Prioritizing| Making things look distinct, draw attention, Bold lettering
-Organinzing| Gouping together related content in to blocks, similar style group together.
-Visual Hierarchy| Size, Color, Style, using contrast, The order the eyes percieve what they see.
-Grouping| Proxmity, closure, Continuance
+Organizing| Grouping together related content in to blocks, similar style group together.
+Visual Hierarchy| Size, Color, Style, using contrast, The order the eyes perceive what they see.
+Grouping| Proximity, closure, Continuance
 Similarity| Consistency, headings
 
 
