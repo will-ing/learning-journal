@@ -42,12 +42,20 @@ ls -a| type this in the terminal to see hidden files. They will start with "."
 * *linux is case sensitive*
 * *linux is an extensionless sysyem*
 
-## Table of contents
+#### Table of contents
+[Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
+
+[HTML Notes](https://will-ing.github.io/learning-journal/html-notes)
+
 [Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
 
 [Git Notes](https://will-ing.github.io/learning-journal/git-notes)
 
-[Main Page](https://will-ing.github.io/learning-journal/)
+[CSS notes](https://will-ing.github.io/learning-journal/css-notes)
+
+[JS notes](https://will-ing.github.io/learning-journal/js-notes)
+
+[Main page](https://will-ing.github.io/learning-journal/)
 
 
 

@@ -27,4 +27,9 @@ Hi my name is Will. I am an army veteran that is looking to develop skills to ef
 
 [Git Notes](https://will-ing.github.io/learning-journal/git-notes)
 
+[CSS notes](https://will-ing.github.io/learning-journal/css-notes)
+
+[JS notes](https://will-ing.github.io/learning-journal/js-notes)
+
 [Main page](https://will-ing.github.io/learning-journal/)
+

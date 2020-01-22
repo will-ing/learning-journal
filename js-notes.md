@@ -53,3 +53,16 @@ Concatenating| link (things) together in a chain or series
 4. all varibles are case sensitive. 
 5. Use a name that describes the kind of infomation that the variable stores
 6. If var is more than one word than captilized the first letter in the second word.
+
+#### Table of contents
+[Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
+
+[HTML Notes](https://will-ing.github.io/learning-journal/html-notes)
+
+[Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
+
+[Git Notes](https://will-ing.github.io/learning-journal/git-notes)
+
+[CSS notes](https://will-ing.github.io/learning-journal/css-notes)
+
+[Main page](https://will-ing.github.io/learning-journal/)
