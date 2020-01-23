@@ -40,6 +40,11 @@ Output| display, text, videos, control a robot, input to another computer.
 * Output devices
 * software - tells the cpu what to do. Series of commands made up of binary code.
 
+# Top 3 things
+1. Types of circuits
+2. How CPUs work
+3. Close circuits make information go faster
+
 #### Table of contents
 [Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
 
