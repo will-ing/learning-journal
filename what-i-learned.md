@@ -9,6 +9,15 @@
 ## HTML
 1. that you can header>nav>ul>li*3>a for shortcut to creating elements
 
+## javascript
+
+*object is the thing.
+1. event is the action
+2. method is decision
+3. property is the value or resource.
+
+
+
 [Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
 
 [HTML Notes](https://will-ing.github.io/learning-journal/html-notes)
