@@ -65,4 +65,6 @@ Concatenating| link (things) together in a chain or series
 
 [CSS notes](https://will-ing.github.io/learning-journal/css-notes)
 
+[How computers work](https://will-ing.github.io/learning-journal/howcmpwrk)
+
 [Main page](https://will-ing.github.io/learning-journal/)

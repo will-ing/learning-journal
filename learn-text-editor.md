@@ -55,6 +55,8 @@ ls -a| type this in the terminal to see hidden files. They will start with "."
 
 [JS notes](https://will-ing.github.io/learning-journal/js-notes)
 
+[How computers work](https://will-ing.github.io/learning-journal/howcmpwrk)
+
 [Main page](https://will-ing.github.io/learning-journal/)
 
 

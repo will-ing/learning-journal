@@ -93,6 +93,8 @@ Unmodified| Remove files| Untracked
 
 [Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
 
+[How computers work](https://will-ing.github.io/learning-journal/howcmpwrk)
+
 [Main page](https://will-ing.github.io/learning-journal/)
 
 

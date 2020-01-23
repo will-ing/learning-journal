@@ -34,4 +34,6 @@ These are just some examples. If you want to learn more visit [Markdown](https:/
 
 [JS notes](https://will-ing.github.io/learning-journal/js-notes)
 
+[How computers work](https://will-ing.github.io/learning-journal/howcmpwrk)
+
 [Main page](https://will-ing.github.io/learning-journal/)
