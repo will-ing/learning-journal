@@ -31,6 +31,10 @@ Hi my name is Will. I am an army veteran that is looking to develop skills to ef
 
 [JS notes](https://will-ing.github.io/learning-journal/js-notes)
 
+[Programming notes](https://will-ing.github.io/learning-journal/progjs-notes)
+
+[Operators and loops](https://will-ing.github.io/learning-journal/operatorsandloops)
+
 [How computers work](https://will-ing.github.io/learning-journal/howcmpwrk)
 
 [what I learned](https://will-ing.github.io/learning-journal/what-i-learned)

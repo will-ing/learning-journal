@@ -41,3 +41,26 @@ Consider three points:
 * Keywords - **break**: causes termination of the loop. **continue**: tells the interpreter to stop the current iteration, and then update and check the condition again.
 * Loops & Arrays - loops can help run the same code for each item in the array.
 * Performance issues - can make the page slower. Can get an infinite loop.
+
+#### Table of contents
+[Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
+
+[HTML Notes](https://will-ing.github.io/learning-journal/html-notes)
+
+[Learning Markdown](https://will-ing.github.io/learning-journal/learning-markdown)
+
+[Git Notes](https://will-ing.github.io/learning-journal/git-notes)
+
+[CSS notes](https://will-ing.github.io/learning-journal/css-notes)
+
+[JS notes](https://will-ing.github.io/learning-journal/js-notes)
+
+[Programming notes](https://will-ing.github.io/learning-journal/progjs-notes)
+
+[Operators and loops](https://will-ing.github.io/learning-journal/operatorsandloops)
+
+[How computers work](https://will-ing.github.io/learning-journal/howcmpwrk)
+
+[what I learned](https://will-ing.github.io/learning-journal/what-i-learned)
+
+[Main page](https://will-ing.github.io/learning-journal/)
