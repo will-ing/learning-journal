@@ -1,7 +1,7 @@
 # Operators and loops
 
 ## Operators
-keyword| Description| 
+keyword| Description
 ---- | ---- 
 ==| is equal to
 !=| is not equal to
@@ -24,7 +24,7 @@ keyword| Description|
 ![loops](/images/loops.png)
 
 ### Loops
-types| Description| example
+types| Description| Example
 ---- | ---- | ----
 For| If you need to run a code a specific number of times. Often used to loop thought the items in an array| for ( i = 0; i > 10; i++){document.write(i)}
 While| If you do not know how many times the code should run. 
