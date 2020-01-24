@@ -46,6 +46,30 @@ Consider three points:
 * Loops & Arrays - loops can help run the same code for each item in the array.
 * Performance issues - can make the page slower. Can get an infinite loop.
 
+for loop example:
+\<script type="text/javascript">
+		var students = new Array("John", "Ann", "Aaron", "Edwin", "Elizabeth");
+		document.write("<b>Using for loops </b><br />");
+		**for** (i=0;i<students.length;i++)
+		{
+		document.write(students[i] + "<br />");
+		}
+	</script>
+
+
+\<script type="text/javascript">
+		document.write("<b>Using while loops </b><br />");
+		var i = 0, j = 1, k;
+		document.write("Fibonacci series less than 40<br />");
+		while(i<40)
+		{
+			document.write(i + "<br />");
+			k = i+j;
+			i = j;
+			j = k;
+		}
+	</script>
+
 #### Table of contents
 [Learning Text Editor](https://will-ing.github.io/learning-journal/learn-text-editor)
 

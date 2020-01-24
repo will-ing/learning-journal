@@ -95,9 +95,13 @@ function name|
 Code block|
 
 Example: 
-* function sayhello(){
+
+\<script> function sayhello(){
     document.write('Hello');
 }
+</script>
+
+![functions](images/functons.png)
 
 > Parameter vs Arguments - Arguments specify values. Parameters don't.
 
