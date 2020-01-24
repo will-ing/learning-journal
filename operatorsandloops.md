@@ -25,7 +25,7 @@ keyword| Description|
 
 ### Loops
 types| Description| example
----- | ---- | ----|
+---- | ---- | ----
 For| If you need to run a code a specific number of times. Often used to loop thought the items in an array| for ( i = 0; i > 10; i++){document.write(i)}
 While| If you do not know how many times the code should run. 
 Do while| Key difference: it will always run the statements inside the curly braces at least once, even if the condition evaluates to false
@@ -34,7 +34,7 @@ Do while| Key difference: it will always run the statements inside the curly bra
 
 ### Loop counters
 types| Description
----- | ---- | ----
+---- | ---- 
 Initialization| Create a variable and set it to 0. This variable is commonly called i, and it acts as the counter; var i =0;
 condition| The loop should continue to run until the counter reaches a specified number.;i < 10;
 Update| Every time the lop has run the statements in the curly braces, it adds one to the counter.; i++
