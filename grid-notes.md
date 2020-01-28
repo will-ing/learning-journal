@@ -1,7 +1,7 @@
 
 # Grids
 
->Grid - 
+>Grid - A way to format your page to make it more responsive.
 
 property| definition| values
 ---- | ---- | ----

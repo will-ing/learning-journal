@@ -93,7 +93,7 @@ Return Value| The answer the function gives you.
 function keyword|
 function name|
 Code block|
-
+queue| an abstract Data Structure where items are kept in order
 Example: 
 
 \<script> function sayhello(){
