@@ -1,6 +1,6 @@
 # Arrays
 
-> Array - 
+> Array - d
 
 Array functions| Definition
 ---- | ----
