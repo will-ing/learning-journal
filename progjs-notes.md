@@ -96,6 +96,8 @@ keyword| Description
 \|\|| logical or; test at least one condition
 !| Logical not; takes single boolean value and inverts it
 
+*n order for JavaScript to compare two different data types (for example, numbers and strings), it must convert one type to another. This is known as "**Type Coercion**"*
+
 ## Functions *pg 88*
 
 > **Functions** let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function.
