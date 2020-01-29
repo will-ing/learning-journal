@@ -7,3 +7,5 @@
 3. Why does a function return "undefined"?
 
 4. What is a "queue"?
+
+5. What is the difference between = | == | === ?
