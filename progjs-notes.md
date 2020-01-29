@@ -63,14 +63,14 @@ Logical operators| Combine expressions and return true or false| buy = (5 > 3) &
 Type| Description| Example
 ---- | ---- | ----
 Addition|| +
-Subtration|| -
+Subtraction|| -
 Division|| /
-Multipliction|| *
+Multiplication|| *
 increment| Adds one to the current number| ++
 Decrement| Subtracts one to the current number| --
 Modulus| divides two values and returns the remainder| 10 % 3 = 1
 
-### string operators *pg78*
+### String operators *pg78*
 
 *There is only one string operator, the + symbol
 
@@ -80,6 +80,21 @@ Example:
 * var fullName = firstName + lastName;
 
 > Mainly used for personalized messages
+
+### Assignment, Comparison and Logical Operators
+keyword| Description
+---- | ---- 
+==| is equal to
+!=| is not equal to
+===| strict equal to
+!==| strict not equal to
+\>| greater than
+<| less than
+\>=| greater than or equal to
+<=| less than or equal to
+&&| logical and; test more than one condition
+\|\|| logical or; test at least one condition
+!| Logical not; takes single boolean value and inverts it
 
 ## Functions *pg 88*
 

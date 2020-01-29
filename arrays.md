@@ -12,3 +12,9 @@ Array functions| Definition
 > Lists - Example var myList = [ ["w", 0], ["p", 2] ]
 
 Lists| Definitions
+
+
+
+## Thisngs I should look in to 
+
+![shift](images/arraypush.png)
